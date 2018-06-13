@@ -1,5 +1,9 @@
 # Deep Learning Papers Reading Roadmap
 
+websites to prefer
+http://www.shortscience.org/
+http://www.wildml.com/
+
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
 >Here is a reading roadmap of Deep Learning papers!
